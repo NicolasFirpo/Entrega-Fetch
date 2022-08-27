@@ -1,0 +1,5 @@
+[
+    {"id":1,"nombre":"brujo","nivel":1,"poder":15,"danio":5,"vida":30,"mana":50,"armadura":5,"resistencia":15},
+    {"id":2,"nombre":"esqueleto","nivel":1,"poder":5,"danio":15,"vida":50,"mana":30,"armadura":15,"resistencia":5},
+    {"id":3,"nombre":"nigromante","nivel":1,"poder":10,"danio":10,"vida":40,"mana":40,"armadura":10,"resistencia":10}
+]
